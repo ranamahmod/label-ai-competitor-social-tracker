@@ -7,7 +7,7 @@
 
 ## Reporting a Vulnerability
 If you discover a security vulnerability, please do NOT open a public issue.
-Instead, email: hello@thelabelaistudios.ph
+Instead, email: mahmodrana24@gmail.com
 
 We will respond within 48 hours and issue a patch as quickly as possible.
 

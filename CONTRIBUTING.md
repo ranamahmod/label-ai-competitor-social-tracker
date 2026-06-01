@@ -16,4 +16,4 @@ Thank you for your interest in contributing!
 - Follow the existing code style
 
 ## Questions?
-Open an issue or email hello@thelabelaistudios.ph
+Open an issue or email mahmodrana24@gmail.com
