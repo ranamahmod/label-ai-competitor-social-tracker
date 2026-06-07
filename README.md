@@ -56,4 +56,4 @@ Instagram and TikTok both rate-limit and JS-render heavily. The agent uses publi
 
 ---
 
-Built by [The Label AI Studios PH](https://instagram.com/thelabelaistudios.ph)
+Built by Rana Mahmod (Contact: mahmodrana24@gmail.com)
